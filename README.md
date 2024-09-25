@@ -15,6 +15,7 @@ This repository contains various bash scripts that automate common tasks. Each s
 10. [Python Code Quality Check](python_code_quality/README.md)
 11. [Python Environment Setup](python_project_setup/README.md)
 12. [SSH Key Generation](ssh_key_generation/README.md)
+13. [MongoDB Backup & Restore Automation w/ GDrive](mongo_backup_restore/README.md)
 
 ### Final Notes
 
